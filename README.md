@@ -6,7 +6,7 @@
 </h1>
 
 <hr/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Just code dont hack ... ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=arduino,cs,c,css,discord,figma,gmail,lua,mysql,py,vscode" />
     <!--<img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>-->
