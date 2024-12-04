@@ -12,7 +12,7 @@
     <!--<img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>-->
 </div>
 
-<h3 align="center">💾 Contact for work 💾</h3>
+<h3 align="center">☔ CONTACT FOR WORK ☔</h3>
 <div align="center"> 
   <a href="mailto:srym.fear@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
