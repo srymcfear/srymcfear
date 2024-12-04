@@ -5,14 +5,13 @@
 </h1>
 
 <hr/>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,cs,c,css,discord,figma,gmail,lua,py,vscode" />
-  </a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=srymcfear&theme=tokyonight&hide_border=true&border_radius=6.5&locale=tr&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=arduino,cs,c,css,discord,figma,gmail,lua,mysql,py,vscode" />
+    <!--<img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>-->
+</div>
 
-</p>
-
+<h3 align="center">💾 Contact for work 💾</h3>
 <div align="center"> 
   <a href="mailto:srym.fear@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
