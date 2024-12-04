@@ -1,7 +1,7 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&format=true)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Star+Renegades&pause=1000&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there!+👀;+I'm+SrymC+/+BER!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Star+Renegades&pause=1000&size=55&center=true&vCenter=true&width=500&height=80&duration=4000&lines=Hey+there!+👀;+I'm+SrymC+/+BER!;+🔹+S+a+t+a+n+i+s+t+🔹" />
 </h1>
 
 <hr/>
