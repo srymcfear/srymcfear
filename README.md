@@ -6,4 +6,8 @@
 
 
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,arduino,cs,c,css,discord,figma,gmail,lua,py,vscode" />
+  </a>
+</p>
