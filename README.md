@@ -13,8 +13,4 @@
 </p>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+[![GitHub Streak](https://streak-stats.demolab.com?user=srymcfear&theme=dark&hide_border=true&locale=tr&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
