@@ -1,7 +1,7 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&format=true)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there!+👀;+I'm+SrymC+/+BER!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Star+Renegades&pause=1000&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there!+👀;+I'm+SrymC+/+BER!;" />
 </h1>
 
 <hr/>
@@ -22,6 +22,9 @@
   <a href="https://fiver.com" target="_blank">
      <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+  <h1 align="center">
+     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&color=E7FFFAA7&center=true&vCenter=true&width=600&height=50&duration=6000&lines=Discord+:+srymc;+Gmail+:+srymc.fear+@+gmail+.com"; />
+  </h1>
 </div>
 
 <hr/>
