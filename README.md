@@ -1,4 +1,5 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&format=true)
+![](https://geps.dev/progress/66?dangerColor=800000&warningColor=8000ff&successColor=006600)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Star+Renegades&pause=1000&size=55&center=true&vCenter=true&width=500&height=80&duration=4000&lines=Hey+there!+👀;+I'm+SrymC+/+BER!;+🔹+S+a+t+a+n+i+s+t+🔹" />
